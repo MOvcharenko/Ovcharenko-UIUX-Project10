@@ -1,4 +1,4 @@
-**Task 1: **
+**Task 1:**
 
 How to declare variables using let and const
 
